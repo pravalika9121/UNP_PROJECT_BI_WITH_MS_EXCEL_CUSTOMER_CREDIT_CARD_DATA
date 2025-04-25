@@ -1,5 +1,5 @@
 # UNP_PROJECT_BI_WITH_MS_EXCEL_CUSTOMER_CREDIT_CARD_DATA
 
-This project aims to analyze customer credit card data to gain insights into spending patterns, identify trends, and derive actionable information. We'll use Excel's powerful pivot tables, filters, and tables to organize, summarize, and visualize the data effectively.
+This project involved analyzing customer data from a banking dataset to determine credit card eligibility based on predefined criteria. Our goal was to deliver a data-driven, user-friendly solution using Microsoft Excel, incorporating advanced analytics features for efficient decision-making. Designed KPIs and interactive dashboards for clear, data-driven insights. Applied business logic to segment customers and streamline decision-making. Built user-friendly pivot tables to enable dynamic data exploration.
 
 MS EXCEL PROJECT FILE: https://1drv.ms/x/s!AhE_X96x0YgicdPLsIAcZiBUmhY?e=X66EfZ
